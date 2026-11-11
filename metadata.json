@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Monthly Expense Tracker fintech dashboard with interactive charts, budget limits, and expense management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
